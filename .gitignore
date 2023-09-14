@@ -3,3 +3,21 @@
 ################################################################################
 
 /src/tm.api/bin/Debug
+/src/tm.api/obj/Debug
+/src/tm.Application/bin/Debug/net6.0
+/src/tm.Application/obj/Debug/net6.0
+/src/tm.Application/obj
+/src/tm.api/obj
+/src/tm.Core/bin/Debug/net6.0
+/src/tm.Core/obj/Debug/net6.0
+/src/tm.Core/obj/Release/net6.0
+/src/tm.Core/obj
+/src/tm.Infrastructure/bin/Debug/net6.0
+/src/tm.Infrastructure/obj
+/tm.Core/obj
+/tm.Infrastructure/obj
+/tm.Application/obj
+/tm.Tests.Integration/bin
+/tm.Tests.Integration/obj
+/tm.Tests.Unit/bin/Debug/net6.0
+/tm.Tests.Unit/obj
